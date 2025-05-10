@@ -10,7 +10,7 @@ I’m a GIS engineer and data practitioner focused on automating spatial workflo
 🔧 My current stack includes:
 - Python (Pandas, GeoPandas, ArcPy)
 - PostgreSQL/PostGIS, SQL
-- ArcGIS Pro, ArcGIS Online, QGIS
+- ArcGIS Pro, ArcGIS Online, ArcGIS Enterprise, QGIS
 - Hugo, GitHub Pages, Docker, Jupyter
 
 🛠️ Recent Projects:
