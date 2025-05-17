@@ -14,8 +14,10 @@ I’m a GIS engineer and data practitioner focused on automating spatial workflo
 - Hugo, GitHub Pages, Docker, Jupyter
 
 📍 Based in San Francisco  
+
 🎓 UMass Amherst — MS GIS&T, BA Political Science  
 💾 San Francisco City College - Databases for Developers Certificate of Achievement
+
 💼 [Resume](https://www.danielmyers.xyz/history/)
 
 ---
