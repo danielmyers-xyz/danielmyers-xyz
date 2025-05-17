@@ -13,12 +13,9 @@ I’m a GIS engineer and data practitioner focused on automating spatial workflo
 - ArcGIS Pro, ArcGIS Online, ArcGIS Enterprise, QGIS
 - Hugo, GitHub Pages, Docker, Jupyter
 
-🛠️ Recent Projects:
-- [danielmyers.xyz](https://www.danielmyers.xyz) — my personal website and blog
-- [Zoning Lookup Tool](https://danielmyersxyz.github.io/lookup-app/) — map-based parcel lookup powered by ArcGIS API for JS
-
 📍 Based in San Francisco  
 🎓 UMass Amherst — MS GIS&T, BA Political Science  
+💾 San Francisco City College - Databases for Developers Certificate of Achievement
 💼 [Resume](https://www.danielmyers.xyz/history/)
 
 ---
